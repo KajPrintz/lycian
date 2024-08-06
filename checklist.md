@@ -35,16 +35,16 @@
   - [ ] Mads
 - **Jakke**
   - [x] Kaj
-  - [ ] Mads
+  - [x] Mads
 - **Badetøj**
   - [ ] Kaj
-  - [ ] Mads
+  - [x] Mads
 - **Solbriller**
   - [x] Kaj
-  - [ ] Mads
+  - [x] Mads
 - **Forsikring**
   - [ ] Kaj
   - [ ] Mads
 - **Pas**
   - [x] Kaj
-  - [ ] Mads
+  - [x] Mads
