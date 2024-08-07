@@ -24,6 +24,12 @@
 - **Rygsæk**
   - [x] Kaj
   - [ ] Mads
+- **Sovpose/tæppe**
+  - [ ] Kaj
+  - [ ] Mads
+- **Liggeunderlag**
+  - [ ] Kaj
+  - [ ] Mads
 - **Vandflaske(r)**
   - [ ] Kaj
   - [ ] Mads
