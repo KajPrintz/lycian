@@ -1,7 +1,7 @@
 ### Lycian Way Checklist
 
 #### Fælles
-- [ ] Mobiloplader
+- [x] Mobiloplader
 - [ ] Batteribank
 - [ ] Ansigtsmasker
 - [ ] Treo & Panodil
@@ -10,7 +10,7 @@
 - [ ] Frysetørret mad
 - [ ] Snacks
 - [ ] Vandfilter
-- [ ] Madlavningsudstyr
+- [x] Madlavningsudstyr
 - [x] Telt
 - [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
 - [ ] Førstehjælps grej
