@@ -1,4 +1,4 @@
-# Lycian Way Hiking Information
+# Lycian Way
 
 ## Overview of the Lycian Way
 The Lycian Way is a 500 km long-distance hiking trail that stretches along Turkey’s southwestern coast, from Fethiye to Antalya. The trail offers a mix of rugged coastline, ancient ruins, and pine forests. It passes through numerous towns and villages such as Kaş, Kalkan, and Finike, where hikers can find guesthouses and small shops for resupply. These towns often provide essential amenities like food, water, and accommodation, making them convenient stops along the journey.
