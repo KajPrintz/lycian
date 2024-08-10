@@ -10,7 +10,7 @@
 - [ ] **Day 7 (August 9):** 50 minutes at 5.2 km/h, 5.5-degree incline
 
 #### Week 2
-- [ ] **Day 8 (August 10):** Rest
+- [x] **Day 8 (August 10):** Rest
 - [ ] **Day 9 (August 11):** 55 minutes at 5.2 km/h, 5.5-degree incline
 - [ ] **Day 10 (August 12):** Rest
 - [ ] **Day 11 (August 13):** 55 minutes at 5.3 km/h, 5.5-degree incline
