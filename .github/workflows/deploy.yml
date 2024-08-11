@@ -34,7 +34,7 @@ jobs:
 
       - name: Deploy
         run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cp -R blog/public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
           git config user.name 'Guanox'
