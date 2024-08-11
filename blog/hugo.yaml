@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://guanox.github.io/lycian/"
 languageCode: en-us
-title: My New Hugo Site
+title: The Lycian Way
 theme: ["PaperMod"]
