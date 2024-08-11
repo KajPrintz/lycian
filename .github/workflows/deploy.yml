@@ -20,7 +20,7 @@ jobs:
         run: sudo apt-get install -y exiftool
 
       - name: Make image-info Executable
-        run: chmod +x ./scripts/image-info
+        run: chmod +x ./scripts/image-info.exe
         working-directory: blog
 
       - name: Build and Run Image Info Exe
