@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/lycian/posts/</loc>
     <lastmod>2024-08-11T18:44:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/lycian/posts/test/</loc>
     <lastmod>2024-08-11T18:44:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/test/</loc>
+    <loc>http://localhost:1313/lycian/</loc>
     <lastmod>2024-08-11T18:44:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/lycian/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/lycian/tags/</loc>
   </url>
 </urlset>
