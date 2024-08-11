@@ -21,6 +21,7 @@ jobs:
 
       - name: Build and Run Image Info Exe
         run: ./scripts/image-info
+        working-directory: blog
 
       - name: Checkout destination
         uses: actions/checkout@v4
