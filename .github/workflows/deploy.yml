@@ -19,6 +19,10 @@ jobs:
       - name: Install exiftool
         run: sudo apt-get install -y exiftool
 
+      - name: Make image-info Executable
+        run: chmod +x ./scripts/image-info
+        working-directory: blog
+
       - name: Build and Run Image Info Exe
         run: ./scripts/image-info
         working-directory: blog
