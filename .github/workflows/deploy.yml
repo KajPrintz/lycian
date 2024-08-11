@@ -30,6 +30,7 @@ jobs:
 
       - name: Build
         run: hugo
+        working-directory: blog
 
       - name: Deploy
         run: |
