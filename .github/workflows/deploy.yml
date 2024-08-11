@@ -16,6 +16,12 @@ jobs:
         with:
           submodules: true
 
+      - name: Install exiftool
+        run: sudo apt-get install -y exiftool
+
+      - name: Build and Run Image Info Exe
+        run: ./scripts/image-info
+
       - name: Checkout destination
         uses: actions/checkout@v4
         with:
