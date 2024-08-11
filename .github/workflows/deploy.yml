@@ -24,7 +24,7 @@ jobs:
         working-directory: blog
 
       - name: Build and Run Image Info Exe
-        run: ./scripts/image-info
+        run: ./scripts/image-info.exe
         working-directory: blog
 
       - name: Checkout destination
