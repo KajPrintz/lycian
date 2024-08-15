@@ -3,18 +3,18 @@
 #### Fælles
 - [x] Mobiloplader
 - [ ] Batteribank
-- [ ] Ansigtsmasker
-- [ ] Treo & Panodil
-- [ ] Instant Kaffe
+- [x] Ansigtsmasker
+- [ ] Treo
+- [ ] Instant Kaffe (nettet)
 - [ ] Koffein Piller
 - [x] Frysetørret mad
-- [ ] Snacks
-- [ ] Vandfilter
+- [ ] Vandfilter (nettet)
 - [x] Madlavningsudstyr
 - [x] Telt
 - [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
-- [ ] Førstehjælps grej
+- [x] Førstehjælps grej
 - [x] Solcreme
+- [ ] Lycotape
 
 #### Individuel
 
@@ -52,5 +52,8 @@
   - [ ] Kaj
   - [ ] Mads
 - **Pas**
+  - [x] Kaj
+  - [x] Mads
+- **Vaccine?**
   - [x] Kaj
   - [x] Mads
