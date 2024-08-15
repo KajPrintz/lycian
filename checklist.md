@@ -30,6 +30,9 @@
 - **Liggeunderlag** 
   - [x] Kaj
   - [x] Mads
+- **Spisespork/ske**
+  - [ ] Kaj
+  - [ ] Mads
 - **Sko**
   - [x] Kaj
   - [x] Mads
