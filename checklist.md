@@ -34,8 +34,8 @@
   - [ ] Kaj
   - [ ] Mads
 - **Sko**
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Tøj** [overtøj](https://www.outdoorgearlab.com/topics/clothing-mens/best-sun-shirt)
   - [ ] Kaj
   - [ ] Mads
