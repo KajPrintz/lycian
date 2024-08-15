@@ -18,7 +18,7 @@
 
 #### Individuel
 
-- **Vandrestave**
+- **Vandrestave** nettet
   - [ ] Kaj
   - [ ] Mads
 - **Rygsæk**
