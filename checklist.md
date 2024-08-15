@@ -7,7 +7,7 @@
 - [ ] Treo & Panodil
 - [ ] Instant Kaffe
 - [ ] Koffein Piller
-- [ ] Frysetørret mad
+- [x] Frysetørret mad
 - [ ] Snacks
 - [ ] Vandfilter
 - [x] Madlavningsudstyr
