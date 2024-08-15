@@ -24,7 +24,7 @@ ii### Lycian Way Checklist
 - **Rygsæk**
   - [x] Kaj
   - [ ] Mads
-- **Sovpose/tæppe**
+- **Sovpose/tæppe/quilt**
   - [ ] Kaj
   - [ ] Mads
 - **Liggeunderlag** 
