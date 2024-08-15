@@ -14,7 +14,7 @@ ii### Lycian Way Checklist
 - [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
 - [x] Førstehjælps grej
 - [x] Solcreme
-- [ ] Lycotape
+- [ ] Leukotape
 
 #### Individuel
 
