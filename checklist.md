@@ -52,5 +52,5 @@ ii### Lycian Way Checklist
   - [x] Kaj
   - [x] Mads
 - **Vaccine?**
-  - [x] Kaj
-  - [x] Mads
+  - [ ] Kaj
+  - [ ] Mads
