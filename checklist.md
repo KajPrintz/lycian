@@ -1,4 +1,4 @@
-### Lycian Way Checklist
+ii### Lycian Way Checklist
 
 #### Fælles
 - [x] Mobiloplader
@@ -28,9 +28,6 @@
   - [ ] Kaj
   - [ ] Mads
 - **Liggeunderlag** https://www.outnorth.com/dk/varemaerker/exped/versa-1r-m-119617-P313-5586?variantId=313-5586&utm_source=google&utm_medium=cpc&utm_content=shopping&gad_source=1&gclid=Cj0KCQjwzva1BhD3ARIsADQuPnVxZ5QjQkRXuCk2v11nFoc4D7Fn17wuK1GMAxX1Ozu8JkFgsJKDAfYaAn04EALw_wcB&gclsrc=aw.ds
-  - [ ] Kaj
-  - [ ] Mads
-- **Vandflaske(r)**
   - [ ] Kaj
   - [ ] Mads
 - **Sko**
