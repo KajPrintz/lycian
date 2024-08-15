@@ -51,6 +51,3 @@
 - **Pas**
   - [x] Kaj
   - [x] Mads
-- **Vaccine?**
-  - [ ] Kaj
-  - [ ] Mads
