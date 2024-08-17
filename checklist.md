@@ -10,7 +10,7 @@
 - [x] Frysetørret mad
 - [x] Madlavningsudstyr
 - [x] Telt
-- [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
+- [x] Flybilletter
 - [x] Førstehjælps grej
 - [x] Solcreme
 - [x] Leukotape
