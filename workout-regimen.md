@@ -10,7 +10,7 @@
 - [x] **Day 5 (August 11):** 55 minutes at 5.2 km/h, 5.5-degree incline
 - [x] **Day 6 (August 13):** 55 minutes at 5.3 km/h, 5.5-degree incline
 - [x] **Day 7 (August 15):** 60 minutes at 5.3 km/h, 5.5-degree incline
-- [ ] **Day 8 (August 17):** 60 minutes at 5.4 km/h, 5.5-degree incline
+- [x] **Day 8 (August 17):** 60 minutes at 5.4 km/h, 5.5-degree incline
 
 #### Week 3
 - [ ] **Day 9 (August 19):** 65 minutes at 5.4 km/h, 5.5-degree incline
