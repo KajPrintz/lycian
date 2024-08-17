@@ -8,7 +8,6 @@
 - [ ] Instant Kaffe (nettet)
 - [ ] Koffein Piller
 - [x] Frysetørret mad
-- [ ] Vandfilter (nettet)
 - [x] Madlavningsudstyr
 - [x] Telt
 - [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
@@ -18,6 +17,9 @@
 
 #### Individuel
 
+- **Vandfilter**
+  - [x] Kaj
+  - [x] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
