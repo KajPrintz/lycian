@@ -5,7 +5,7 @@
 - [ ] Batteribank
 - [x] Ansigtsmasker
 - [x] Treo
-- [ ] Instant Kaffe (nettet)
+- [ ] Instant Kaffe
 - [ ] Koffein Piller
 - [x] Frysetørret mad
 - [x] Madlavningsudstyr
