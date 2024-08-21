@@ -20,6 +20,9 @@
 
 #### Individuel
 
+- **Pandelampe**
+  - [ ] Kaj
+  - [ ] Mads
 - **Vandfilter**
   - [ ] Kaj
   - [ ] Mads
