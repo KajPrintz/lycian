@@ -29,6 +29,3 @@
 - [ ] **Day 18 (September 6):** 85 minutes at 5.9 km/h, 6-degree incline
 - [ ] **Day 19 (September 8):** 90 minutes at 5.9 km/h, 6-degree incline
 - [ ] **Day 20 (September 10):** 90 minutes at 6 km/h, 6-degree incline
-
-#### Week 6
-- [ ] **Day 21 (September 12):** 90 minutes at 6 km/h, 6-degree incline
