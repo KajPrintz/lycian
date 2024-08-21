@@ -33,8 +33,8 @@
   - [ ] Kaj
   - [ ] Mads
 - **Liggeunderlag** 
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Spisespork/ske**
   - [ ] Kaj
   - [ ] Mads
