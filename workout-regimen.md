@@ -15,17 +15,17 @@
 #### Week 3
 - [x] **Day 9 (August 19):** 65 minutes at 5.4 km/h, 5.5-degree incline
 - [x] **Day 10 (August 21):** 65 minutes at 5.5 km/h, 5.5-degree incline
-- [ ] **Day 11 (August 24):** 70 minutes at 5.5 km/h, 5.5-degree incline
-- [ ] **Day 12 (August 26):** 70 minutes at 5.6 km/h, 6-degree incline
+- [ ] **Day 11 (August 25):** 70 minutes at 5.5 km/h, 5.5-degree incline
+- [ ] **Day 12 (August 27):** 70 minutes at 5.6 km/h, 6-degree incline
 
 #### Week 4
-- [ ] **Day 13 (August 28):** 75 minutes at 5.6 km/h, 6-degree incline
-- [ ] **Day 14 (August 30):** 75 minutes at 5.7 km/h, 6-degree incline
-- [ ] **Day 15 (August 1):** 80 minutes at 5.7 km/h, 6-degree incline
-- [ ] **Day 16 (September 3):** 80 minutes at 5.8 km/h, 6-degree incline
+- [ ] **Day 13 (August 29):** 75 minutes at 5.6 km/h, 6-degree incline
+- [ ] **Day 14 (August 31):** 75 minutes at 5.7 km/h, 6-degree incline
+- [ ] **Day 15 (August 12:** 80 minutes at 5.7 km/h, 6-degree incline
+- [ ] **Day 16 (September 4):** 80 minutes at 5.8 km/h, 6-degree incline
 
 #### Week 5
-- [ ] **Day 17 (September 5):** 85 minutes at 5.8 km/h, 6-degree incline
-- [ ] **Day 18 (September 7):** 85 minutes at 5.9 km/h, 6-degree incline
-- [ ] **Day 19 (September 9):** 90 minutes at 5.9 km/h, 6-degree incline
-- [ ] **Day 20 (September 11):** 90 minutes at 6 km/h, 6-degree incline
+- [ ] **Day 17 (September 6):** 85 minutes at 5.8 km/h, 6-degree incline
+- [ ] **Day 18 (September 8):** 85 minutes at 5.9 km/h, 6-degree incline
+- [ ] **Day 19 (September 10):** 90 minutes at 5.9 km/h, 6-degree incline
+- [ ] **Day 20 (September 12):** 90 minutes at 6 km/h, 6-degree incline
