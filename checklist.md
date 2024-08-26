@@ -6,7 +6,7 @@
 - [x] Ansigtsmasker
 - [x] Treo
 - [ ] Instant Kaffe
-- [ ] Koffein Piller
+- [x] Koffein Piller
 - [x] Frysetørret mad
 - [x] Madlavningsudstyr
 - [x] Telt
