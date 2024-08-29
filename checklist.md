@@ -24,8 +24,8 @@
   - [ ] Kaj
   - [ ] Mads
 - **Vandfilter**
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
