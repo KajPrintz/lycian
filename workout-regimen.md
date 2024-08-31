@@ -19,7 +19,7 @@
 - [x] **Day 12 (August 28):** 70 minutes at 5.5 km/h, 6-degree incline
 
 #### Week 4
-- [ ] **Day 13 (August 31):** 70 minutes at 5.6 km/h, 6-degree incline
+- [x] **Day 13 (August 31):** 70 minutes at 5.6 km/h, 6-degree incline
 - [ ] **Day 14 (September 2):** 75 minutes at 5.6 km/h, 6-degree incline
 - [ ] **Day 15 (September 4):** 75 minutes at 5.7 km/h, 6-degree incline
 - [ ] **Day 16 (September 6):** 80 minutes at 5.7 km/h, 6-degree incline
