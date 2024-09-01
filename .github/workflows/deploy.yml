@@ -4,7 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'blog/**'
   pull_request:
+    paths:
+      - 'blog/**
 
 jobs:
   deploy:
