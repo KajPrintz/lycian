@@ -8,7 +8,7 @@ on:
       - 'blog/**'
   pull_request:
     paths:
-      - 'blog/**
+      - 'blog/**'
 
 jobs:
   deploy:
