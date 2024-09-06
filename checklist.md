@@ -29,10 +29,10 @@
   - [x] Mads
 - **Rygsæk**
   - [x] Kaj
-  - [ ] Mads
+  - [x] Mads
 - **Sovpose/tæppe/quilt**
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Liggeunderlag** 
   - [x] Kaj
   - [x] Mads
