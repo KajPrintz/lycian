@@ -37,8 +37,8 @@
   - [x] Kaj
   - [x] Mads
 - **Spisespork/ske**
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Sko**
   - [x] Kaj
   - [x] Mads
@@ -52,6 +52,9 @@
   - [ ] Kaj
   - [x] Mads
 - **Solbriller**
+  - [x] Kaj
+  - [x] Mads
+- **håndklæde**
   - [x] Kaj
   - [x] Mads
 - **Forsikring**
