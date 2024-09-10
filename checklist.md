@@ -27,6 +27,9 @@
 - **Myggenet**
   - [ ] Kaj
   - [ ] Mads
+- **Kasket**
+  - [ ] Kaj
+  - [x] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
