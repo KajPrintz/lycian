@@ -24,6 +24,9 @@
 - **Vandfilter**
   - [x] Kaj
   - [x] Mads
+- **Myggenet**
+  - [ ] Kaj
+  - [ ] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
