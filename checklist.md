@@ -2,7 +2,7 @@
 
 #### Fælles
 - [x] Mobiloplader
-- [ ] Batteribank bestilt
+- [ ] Batteribank
 - [x] Ansigtsmasker
 - [x] Treo
 - [x] Instant Kaffe
@@ -24,7 +24,7 @@
 - **Vandfilter**
   - [x] Kaj
   - [x] Mads
-- **Myggenet** bestilt
+- **Myggenet**
   - [x] Kaj
   - [x] Mads
 - **Kasket**
