@@ -25,8 +25,8 @@
   - [x] Kaj
   - [x] Mads
 - **Myggenet** bestilt
-  - [ ] Kaj
-  - [ ] Mads
+  - [x] Kaj
+  - [x] Mads
 - **Kasket**
   - [ ] Kaj
   - [x] Mads
@@ -48,9 +48,12 @@
 - **Sko**
   - [x] Kaj
   - [x] Mads
-- **Tøj** [overtøj](https://www.outdoorgearlab.com/topics/clothing-mens/best-sun-shirt)
+- **Bukser**
+  - [x] Kaj
+  - [x] Mads#
+  - **Bluse**
   - [ ] Kaj
-  - [ ] Mads
+  - [x] Mads
 - **Jakke**
   - [x] Kaj
   - [x] Mads
