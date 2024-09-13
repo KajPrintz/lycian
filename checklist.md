@@ -52,7 +52,7 @@
   - [x] Kaj
   - [x] Mads#
 - **Bluse**
-  - [ ] Kaj
+  - [x] Kaj
   - [x] Mads
 - **Jakke**
   - [x] Kaj
