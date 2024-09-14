@@ -30,6 +30,12 @@
 - **Kasket**
   - [ ] Kaj
   - [x] Mads
+- **Strømper**
+  - [ ] Kaj
+  - [x] Mads
+- **Jakke** bestilt
+  - [ ] Kaj
+  - [ ] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
