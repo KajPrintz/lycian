@@ -2,7 +2,7 @@
 
 #### Fælles
 - [x] Mobiloplader
-- [ ] Batteribank
+- [ ] Batteribank bestilt
 - [x] Ansigtsmasker
 - [x] Treo
 - [x] Instant Kaffe
@@ -33,7 +33,7 @@
 - **Strømper**
   - [ ] Kaj
   - [x] Mads
-- **Jakke** bestilt
+- **Jakke** hente mandag
   - [ ] Kaj
   - [ ] Mads
 - **Vandrestave**
@@ -73,7 +73,7 @@
   - [x] Kaj
   - [x] Mads
 - **Forsikring**
-  - [ ] Kaj
+  - [ ] Kaj IDA
   - [ ] Mads
 - **Pas**
   - [x] Kaj
