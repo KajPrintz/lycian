@@ -24,6 +24,7 @@
 - [ ] Finasterid
 - [ ] Teltunderlag ??? telt (125cm X 110cm)
 - [ ] ziplock bag til førstehjælps grej
+- [ ] Tandpasta
 
 #### Individuel
 
