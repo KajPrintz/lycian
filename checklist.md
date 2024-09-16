@@ -19,6 +19,10 @@
 - [ ] Small knife
 - [ ] Solcreme
 
+#### Kaj
+- [ ] Sko ?
+- [ ] Finasterid
+
 #### Individuel
 
 - **Vandfilter**
