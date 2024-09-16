@@ -56,7 +56,7 @@
   - [x] Mads
 - **Bukser**
   - [x] Kaj
-  - [x] Mads#
+  - [x] Mads
 - **Bluse**
   - [x] Kaj
   - [x] Mads
