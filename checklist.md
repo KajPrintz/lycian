@@ -2,7 +2,7 @@
 
 #### Fælles
 - [x] Mobiloplader
-- [ ] Batteribank bestilt
+- [x] Batteribank
 - [x] Ansigtsmasker
 - [x] Treo
 - [x] Instant Kaffe
