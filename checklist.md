@@ -27,18 +27,12 @@
 - **Myggenet**
   - [x] Kaj
   - [x] Mads
-- **Trøje**
-  - [ ] Kaj
-  - [ ] Mads
 - **Kasket**
   - [ ] Kaj
   - [x] Mads
 - **Strømper**
   - [ ] Kaj
   - [x] Mads
-- **Jakke** bestilt
-  - [ ] Kaj
-  - [ ] Mads
 - **Vandrestave**
   - [x] Kaj
   - [x] Mads
@@ -60,12 +54,12 @@
 - **Bukser**
   - [x] Kaj
   - [x] Mads
-- **Bluse**
+- **Trøje**
   - [x] Kaj
   - [x] Mads
-- **Jakke**
-  - [x] Kaj
-  - [x] Mads
+- **Jakke** bestilt
+  - [ ] Kaj
+  - [ ] Mads
 - **Badetøj**
   - [ ] Kaj
   - [x] Mads
