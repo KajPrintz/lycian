@@ -16,7 +16,7 @@
 
 ##### Anskaf i tyrkiet Fethiye
 - [ ] Isobutane / propane mixture 250gram [fethiye](https://maps.app.goo.gl/gsRdikfKMLax4tdo9)
-- [ ] Small knife
+- [ ] Schweizerkniv / Kniv
 - [ ] Solcreme
 
 #### Kaj
