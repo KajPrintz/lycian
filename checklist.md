@@ -23,6 +23,7 @@
 - [ ] Sko ?
 - [ ] Finasterid
 - [ ] Teltunderlag ???
+- [ ] ziplock bag til førstehjælps grej
 
 #### Individuel
 
