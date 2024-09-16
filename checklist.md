@@ -31,7 +31,7 @@
   - [ ] Kaj
   - [x] Mads
 - **Strømper**
-  - [ ] Kaj
+  - [x] Kaj
   - [x] Mads
 - **Vandrestave**
   - [x] Kaj
