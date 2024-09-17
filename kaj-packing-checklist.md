@@ -31,3 +31,4 @@
 - [ ] Husnøgle
 - [ ] Pas
 - [ ] Mobil
+- [ ] rejsekort
