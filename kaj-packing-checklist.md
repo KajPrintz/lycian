@@ -27,4 +27,7 @@
 - [ ] Badebukser
 - [ ] Solbriller
 - [ ] Håndklæde
+- [ ] Dankort
+- [ ] Husnøgle
 - [ ] Pas
+- [ ] Mobil
