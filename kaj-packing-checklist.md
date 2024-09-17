@@ -4,6 +4,7 @@
 - [ ] Batteribank
 - [ ] Ansigtsmasker
 - [ ] Treo
+- [ ] Tandbørste
 - [ ] Instant Kaffe
 - [ ] Koffein Piller
 - [ ] Frysetørret mad
