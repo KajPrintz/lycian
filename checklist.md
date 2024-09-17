@@ -4,7 +4,7 @@
 - [x] Mobiloplader
 - [x] Batteribank
 - [x] Ansigtsmasker
-- [x] Treo
+- [ ] Treo
 - [x] Instant Kaffe
 - [x] Koffein Piller
 - [x] Frysetørret mad
