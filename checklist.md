@@ -1,10 +1,17 @@
 ### Lycian Way Checklist
 
+eventyrsport - sko
+salling, badebukser, kasket
+rema 1000
+
+
+
+
 #### Fælles
 - [x] Mobiloplader
 - [x] Batteribank
 - [x] Ansigtsmasker
-- [ ] Treo
+- [ ] Treo - rema1000
 - [x] Instant Kaffe
 - [x] Koffein Piller
 - [x] Frysetørret mad
@@ -20,9 +27,9 @@
 - [ ] Solcreme
 
 #### Kaj
-- [ ] Sko størrelse 45
-- [ ] Finasterid
-- [ ] ziplock bags
+- [ ] Sko størrelse 45 - eventyrsport
+- [ ] Finasterid - apotek
+- [ ] ziplock bags - rema 1000
 
 #### Individuel
 
@@ -33,7 +40,7 @@
   - [x] Kaj
   - [x] Mads
 - **Kasket**
-  - [ ] Kaj
+  - [ ] Kaj - salling ?
   - [x] Mads
 - **Strømper**
   - [x] Kaj
@@ -50,7 +57,7 @@
 - **Liggeunderlag** 
   - [x] Kaj
   - [x] Mads
-- **Spisespork/ske**
+- **Ske**
   - [x] Kaj
   - [x] Mads
 - **Sko**
@@ -65,8 +72,8 @@
 - **Jakke** bestilt
   - [ ] Kaj
   - [ ] Mads
-- **Badetøj**
-  - [ ] Kaj
+- **Badebukser**
+  - [ ] Kaj - salling
   - [x] Mads
 - **Solbriller**
   - [x] Kaj
