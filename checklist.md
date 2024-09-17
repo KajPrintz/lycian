@@ -20,10 +20,10 @@
 - [ ] Solcreme
 
 #### Kaj
-- [ ] Sko ?
+- [ ] Sko størrelse 45
 - [ ] Finasterid
 - [ ] Teltunderlag ??? telt (125cm X 110cm)
-- [ ] ziplock bag til førstehjælps grej
+- [ ] ziplock bags
 - [ ] Tandpasta
 
 #### Individuel
