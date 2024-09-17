@@ -22,9 +22,7 @@
 #### Kaj
 - [ ] Sko størrelse 45
 - [ ] Finasterid
-- [ ] Teltunderlag ??? telt (125cm X 110cm)
 - [ ] ziplock bags
-- [ ] Tandpasta
 
 #### Individuel
 
