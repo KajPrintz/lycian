@@ -1,9 +1,13 @@
 ### Lycian Way Checklist
 
-- eventyrsport - sko
-- salling, badebukser, kasket
+- eventyrsport
+  - sko
+- salling
+  - badebukser
+  - kasket
 - rema 1000
   - treo
+  - ziplock bags
 
 
 
