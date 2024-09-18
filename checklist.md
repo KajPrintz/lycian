@@ -36,7 +36,7 @@
   - [x] Kaj
   - [x] Mads
 - **Kasket**
-  - [ ] Kaj - salling ?
+  - [ ] Kaj
   - [x] Mads
 - **Strømper**
   - [x] Kaj
@@ -69,7 +69,7 @@
   - [x] Kaj
   - [x] Mads
 - **Badebukser**
-  - [ ] Kaj - salling
+  - [ ] Kaj
   - [x] Mads
 - **Solbriller**
   - [x] Kaj
@@ -78,7 +78,7 @@
   - [x] Kaj
   - [x] Mads
 - **Forsikring**
-  - [ ] Kaj
+  - [x] Kaj
   - [x] Mads
 - **Pas**
   - [x] Kaj
