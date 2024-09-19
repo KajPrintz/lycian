@@ -1,7 +1,6 @@
 ### Lycian Way Checklist
 
 - salling
-  - badebukser
   - kasket
 
 
@@ -70,7 +69,7 @@
   - [x] Kaj
   - [x] Mads
 - **Badebukser**
-  - [ ] Kaj
+  - [x] Kaj
   - [x] Mads
 - **Solbriller**
   - [x] Kaj
