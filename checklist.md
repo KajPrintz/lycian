@@ -26,6 +26,7 @@
 
 #### Kaj
 - [ ] Finasterid - apotek
+- [ ] Skovl 
 
 #### Individuel
 
