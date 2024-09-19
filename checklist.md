@@ -1,8 +1,5 @@
 ### Lycian Way Checklist
 
-- salling
-  - kasket
-
 
 #### Fælles
 - [x] Mobiloplader
@@ -17,15 +14,13 @@
 - [x] Flybilletter
 - [x] Førstehjælps grej
 - [x] Leukotape
+- [ ] Skovle
+- [ ] Finasterid
 
 ##### Anskaf i tyrkiet Fethiye
 - [ ] Isobutane / propane mixture 250gram [fethiye](https://maps.app.goo.gl/gsRdikfKMLax4tdo9)
 - [ ] Schweizerkniv / Kniv
 - [ ] Solcreme
-
-#### Kaj
-- [ ] Finasterid - apotek
-- [ ] Skovl 
 
 #### Individuel
 
