@@ -14,6 +14,7 @@
 - [x] Flybilletter
 - [x] Førstehjælps grej
 - [x] Leukotape
+- [x] Teltunderlag
 - [ ] Skovle
 - [ ] Finasterid
 
