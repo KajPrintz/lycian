@@ -32,7 +32,7 @@
   - [x] Kaj
   - [x] Mads
 - **Kasket**
-  - [ ] Kaj
+  - [x] Kaj
   - [x] Mads
 - **Strømper**
   - [x] Kaj
