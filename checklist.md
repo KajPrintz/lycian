@@ -15,7 +15,7 @@
 - [x] Førstehjælps grej
 - [x] Leukotape
 - [x] Teltunderlag
-- [ ] Skovle
+- [x] Skovle
 - [x] Finasterid
 
 ##### Anskaf i tyrkiet Fethiye
