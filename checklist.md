@@ -16,7 +16,7 @@
 - [x] Leukotape
 - [x] Teltunderlag
 - [ ] Skovle
-- [ ] Finasterid
+- [x] Finasterid
 
 ##### Anskaf i tyrkiet Fethiye
 - [ ] Isobutane / propane mixture 250gram [fethiye](https://maps.app.goo.gl/gsRdikfKMLax4tdo9)
