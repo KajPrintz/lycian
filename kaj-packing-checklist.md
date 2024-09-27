@@ -10,7 +10,7 @@
 - [ ] Frysetørret mad
 - [ ] Madlavningsudstyr
 - [ ] Telt
-- [ ] Førstehjælps grej
+- [ ] Teltunderlag
 - [ ] Finasterid
 - [ ] Vandfilter
 - [ ] Myggenet
