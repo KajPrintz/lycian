@@ -1,1 +1,35 @@
+### Lycian Way Packing Checklist
 
+- [ ] Mobiloplader
+- [ ] Batteribank
+- [ ] Ansigtsmasker
+- [ ] Treo
+- [ ] Tandbørste
+- [ ] Instant Kaffe
+- [ ] Koffein Piller
+- [ ] Frysetørret mad
+- [ ] Madlavningsudstyr
+- [ ] Telt
+- [ ] Førstehjælps grej
+- [ ] Finasterid
+- [ ] Vandfilter
+- [ ] Myggenet
+- [ ] Kasket
+- [ ] 2 Strømper 
+- [ ] 3 underbukser
+- [ ] Vandrestave
+- [ ] Sovpose/tæppe/quilt
+- [ ] Liggeunderlag
+- [ ] Ske
+- [ ] 2 Bukser
+- [ ] Trøje
+- [ ] Tshirt
+- [ ] Jakke
+- [ ] Badebukser
+- [ ] Solbriller
+- [ ] Håndklæde
+- [ ] Dankort
+- [ ] Husnøgle
+- [ ] Pas
+- [ ] Mobil
+- [ ] rejsekort
