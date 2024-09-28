@@ -1,35 +1,35 @@
 ### Lycian Way Packing Checklist
 
-- [ ] Mobiloplader
-- [ ] Batteribank
-- [ ] Ansigtsmasker
-- [ ] Treo
-- [ ] Tandbørste
-- [ ] Instant Kaffe
-- [ ] Koffein Piller
-- [ ] Frysetørret mad
-- [ ] Madlavningsudstyr
-- [ ] Telt
-- [ ] Teltunderlag
-- [ ] Finasterid
-- [ ] Vandfilter
-- [ ] Myggenet
-- [ ] Kasket
-- [ ] 2 Strømper 
-- [ ] 3 underbukser
-- [ ] Vandrestave
-- [ ] Sovpose/tæppe/quilt
-- [ ] Liggeunderlag
-- [ ] Ske
-- [ ] 2 Bukser
-- [ ] Trøje
-- [ ] Tshirt
-- [ ] Jakke
-- [ ] Badebukser
-- [ ] Solbriller
-- [ ] Håndklæde
-- [ ] Dankort
-- [ ] Husnøgle
-- [ ] Pas
-- [ ] Mobil
-- [ ] rejsekort
+- [x] Mobiloplader
+- [x] Batteribank
+- [x] Ansigtsmasker
+- [x] Treo
+- [x] Tandbørste
+- [x] Instant Kaffe
+- [x] Koffein Piller
+- [x] Frysetørret mad
+- [x] Madlavningsudstyr
+- [x] Telt
+- [x] Teltunderlag
+- [x] Finasterid
+- [x] Vandfilter
+- [x] Myggenet
+- [x] Kasket
+- [x] 2 Strømper 
+- [x] 3 underbukser
+- [x] Vandrestave
+- [x] Sovpose/tæppe/quilt
+- [x] Liggeunderlag
+- [x] Ske - mads
+- [x] 2 Bukser
+- [x] Trøje
+- [x] Tshirt
+- [x] Jakke
+- [x] Badebukser
+- [x] Solbriller
+- [x] Håndklæde
+- [x] Dankort
+- [x] Husnøgle
+- [x] Pas
+- [x] Mobil
+- [x] rejsekort
